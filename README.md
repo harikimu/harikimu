@@ -1,13 +1,6 @@
-<div align=center>
-	
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhmkim312&count_bg=%2316CD29&title_bg=%23605353&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)](https://hits.seeyoufarm.com)
+## :wave: Welcome to my GitHub!
 
-</div>
-
-
-# :wave: Welcome to my GitHub
-
-Hi! My name is Harry. I'm from Korea, currently working in Singapore. 🇸🇬
+Hi, my name is Harry. I'm from Korea, currently working in Singapore. 🇸🇬
 
 
 <br>
@@ -25,7 +18,6 @@ Hi! My name is Harry. I'm from Korea, currently working in Singapore. 🇸🇬
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-FFA500?style=flat-square&logo=Power-Bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=Tableau&logoColor=black)
-
 
 
 <br>
