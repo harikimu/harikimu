@@ -1,6 +1,6 @@
 ## :wave: Hi there!
 
-My name is Harry. I'm from Korea, currently working in Singapore. 🇸🇬
+My name is Harry:grinning:. I'm from Korea 🇰🇷, currently working in Singapore. 🇸🇬
 
 
 <br>
