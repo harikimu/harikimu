@@ -7,9 +7,7 @@
 
 # :wave: Welcome to my GitHub
 
-## :boy: Self-introduction
-
-Hi, my name is Harry. I'm from Korea :south_korea:, currently working in Oracle, Singapore. 🇸🇬
+Hi! My name is Harry. I'm from Korea, currently working in Singapore. 🇸🇬
 
 
 <br>
