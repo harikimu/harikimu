@@ -25,8 +25,8 @@ Hi, my name is Harry. I'm from Korea :south_korea:, currently working in Oracle,
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VsCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-FFA500?style=flat-square&logo=Power-Bi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-007ACC?style=flat-square&logo=Tableau&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-FFA500?style=flat-square&logo=Power-Bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-FFFFFF?style=flat-square&logo=Tableau&logoColor=black)
 
 
 
