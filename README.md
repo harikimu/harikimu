@@ -23,7 +23,7 @@ My name is Harry:grinning:. I'm from Korea 🇰🇷, currently working in Singap
 <br>
 
 ## :iphone: Where to find me
-<p><a href="https://harikimu.github.io/portfolio" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://velog.io/@harikimu" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/harrykim1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p><a href="https://harikimu.github.io/portfolio" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://velog.io/@harikimu" target="_blank"><img alt="Velog" src="https://img.shields.io/badge/Velog-100000?style=for-the-badge&logo=github&logoColor=white" /></a><a href="https://www.linkedin.com/in/harrykim1" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br>
 
